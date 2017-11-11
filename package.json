@@ -1,0 +1,25 @@
+{
+  "name": "mention",
+  "version": "1.0.0",
+  "description": "'Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin'",
+  "main": "mention.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbanhire/Mention.js.git"
+  },
+  "keywords": [
+    "mentions",
+    "typehead",
+    "jquery",
+    "mentions"
+  ],
+  "author": "Hengki Sihombing <hengki.sihombing@gmail.com> (http://hengkiardo.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urbanhire/Mention.js/issues"
+  },
+  "homepage": "https://github.com/urbanhire/Mention.js#readme"
+}
