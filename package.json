@@ -1,5 +1,5 @@
 {
-  "name": "mention",
+  "name": "jquery-mention",
   "version": "1.0.0",
   "description": "'Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin'",
   "main": "mention.js",
